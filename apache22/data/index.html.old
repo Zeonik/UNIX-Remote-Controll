@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>/\/-Start Programm-\/\</title>
+<style type="text/css">
+<!--
+body,td,th {
+	font-family: Times New Roman, Times, serif;
+	color: #FFFFFF;
+}
+body {
+	background-color: #666666;
+	background-image: url();
+}
+.стиль2 {
+	font-size: 24px;
+	color: #000000;
+}
+.стиль4 {color: #000000}
+-->
+</style></head>
+
+<body>
+<form id="form1" name="form1" method="post" action="/cgi-bin/start/index.cgi">
+  <label>
+  <div align="center">
+    <h4><br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <span class="стиль2"><br />
+      Запуск  программы</span><span class="стиль4">.</span><br />
+      <input name="button" type="submit" class="стиль2" id="button" value="START" />
+      </h4>
+  </div>
+  </label>
+</form>
+</body>
+</html>
